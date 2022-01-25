@@ -37,3 +37,10 @@ zipdiv
 *.a
 *.dll
 *.o
+DAT/
+FLI/
+Genspr/
+Mod/
+PCM/
+Wld/
+install/
