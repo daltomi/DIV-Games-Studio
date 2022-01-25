@@ -15,6 +15,7 @@ WSTUB/
 cmake_install.cmake
 div
 div-LINUX
+d-LINUX
 old/
 system/EXEC.EXE
 system/div*-*
